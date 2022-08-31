@@ -3,10 +3,6 @@
 ## 💻 Sobre o Projeto
 Jogo da Forca desenvolvido em Vanilla JS.
 
-## 🎨 Layout
-
-![image]()
-
 ## 🛠 Tecnologias
 
 As seguintes ferramentas foram usadas na construção do projeto:
